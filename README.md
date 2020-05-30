@@ -5,7 +5,11 @@ Selection of controls almosy any React Native app needs
 ## Installation
 
 ```sh
-npm install @farfarawaylabs/react-native-beautiful-ui
+npm install @react-native-community/blur react-native-safe-area-context
+npm install @farfarawaylabs/react-native-beautiful-controls
+
+cd ios
+pod install
 ```
 
 ###
